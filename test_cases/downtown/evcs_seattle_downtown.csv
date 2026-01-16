@@ -1,4 +1,4 @@
-StationName,PoleID,CensusBlockID,Node,MinParkCapacity,CensusBlockDemand,MaxParkCapacity,InvestmentCost,Lat,Long
+StationName,PoleID,CensusBlockID,Node,MinParkCapacity,CensusBlockDemand,MaxParkCapacity,LandCost,Lat,Long
 Station_1,1308061,5.3033E+14,R3-12-47-2_meter_29,2,0,16,80000,47.6049431,-122.3209081
 Station_2,1311259,5.3033E+14,R3-12-47-2_meter_9,1,6,6,30000,47.609461,-122.3260223
 Station_3,1308120,5.3033E+14,R3-12-47-2_meter_27,3,0,15,75000,47.6068555,-122.325176
